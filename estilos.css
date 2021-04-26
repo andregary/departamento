@@ -101,3 +101,44 @@
     width: 400px;
     margin-top: 100px;
 }
+
+
+.seccion5Der {
+    background-image: url("imagen/fondosesion5.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 160%;
+    height: 700px;
+    width: 160%;
+    margin-top: 0%;
+    margin-left: 0%;
+    
+}
+
+
+.zona1 {
+    width: 500px;
+    height: 230px;
+}
+.zona2 {
+    width: 500px;
+    height: 232px;
+}
+.zona3 {
+    width: 500px;
+    height: 230px;
+}
+
+.titulo5 {
+    color: black;
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.lista5 {
+    color: black;
+    font-size: 30px;
+    margin-top: 90px;
+    margin-left: 0px;
+}
